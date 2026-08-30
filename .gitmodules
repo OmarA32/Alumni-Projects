@@ -142,3 +142,6 @@
 [submodule "Computer-Vision/aquatic_insect_ml"]
 	path = Computer-Vision/aquatic_insect_ml
 	url = https://github.com/hlowman/aquatic_insect_ml
+[submodule "NLP/Fusion-JEPA-TTS"]
+	path = NLP/Fusion-JEPA-TTS
+	url = https://github.com/OmarA32/Fusion-JEPA-TTS
